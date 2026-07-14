@@ -1,2 +1,1 @@
-# checkout.afternic.com
-checkout.afternic.com
+## Welcome to the world’s premier domain marketplace.
